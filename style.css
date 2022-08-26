@@ -1,0 +1,124 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  text-align: center;
+}
+
+.conteiner {
+  background-color: green;
+  width: calc(100vw - 32px);
+  margin: 16px;
+  padding-bottom: 116px;
+}
+
+.item1 {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  margin: 0.5em;
+  padding-top: 2.8em;
+  float: left;
+}
+
+.item2 {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  margin: 0.5em;
+  padding-top: 2.8em;
+  float: right;
+}
+
+.item3 {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  margin: 0.5em 0.5em 0.5em 0.5em;
+  padding-top: 2.8em;
+  float: left;
+}
+
+.block {
+  float: right;
+}
+
+.item4 {
+  background-color: red;
+  width: 60px;
+  height: 60px;
+  margin: 2em 0.5em 0.5em 0.5em;
+  padding-top: 1.5em;
+  float: left;
+}
+
+.item5 {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  margin: 0.5em;
+  padding-top: 2.8em;
+  float: left;
+}
+
+.item6 {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  margin: 0.5em;
+  padding-top: 2.8em;
+  float: right;
+}
+
+.block1 {
+  width: 232px;
+  margin: 0 auto;
+}
+
+.item7 {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  margin: 0.5em;
+  padding-top: 2.8em;
+  float: left;
+}
+
+.block2 {
+  float: left;
+}
+
+.item8 {
+  background-color: red;
+  width: 100px;
+  height: 46px;
+  margin: 0.5em;
+  padding-top: 0.4em;
+}
+
+.block3 {
+  float: right;
+}
+
+.item9 {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  margin: 0.5em;
+  padding-top: 2.8em;
+  float: left;
+}
+
+.block4 {
+  float: left;
+}
+
+.item10 {
+  background-color: red;
+  width: 100px;
+  height: 46px;
+  margin: 0.5em;
+  padding-top: 0.4em;
+}
